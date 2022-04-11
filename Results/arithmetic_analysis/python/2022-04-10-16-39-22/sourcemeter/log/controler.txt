@@ -1,0 +1,6 @@
+  [2022-04-10 16:39:22] Starting task:          PANTask
+  [2022-04-10 16:39:22] Task ended (+00:00:00): PANTask                        Result:critical error 
+EXCEPTION:Task.cpp:160:ERROR: Execution failure! Exit:2
+
+
+Failed!
